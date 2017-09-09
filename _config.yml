@@ -1,5 +1,14 @@
-exclude: ["README.md","notes.txt"]
+titie: Math + (astro/pinhole)photography
+email: gwarring@gmail.com
+description: > # ignore newlines until baseurl...
+  Posts on mathematics, astrophotography and gerrymandering.
+baseurl: ""
+twitter_username: GSWarrington
+github_username: GSWarrington
+#
+# markdown: kramdown
+theme: minima
+exclude: ["README.md","notes.txt","Gemfile","Gemfile.lock"]
 timezone: America/New_York
-theme: jekyll-theme-minimal
 
 
