@@ -1,3 +1,5 @@
 exclude: ["README.md","notes.txt"]
 timezone: America/New_York
+theme: jekyll-theme-minimal
+
 
