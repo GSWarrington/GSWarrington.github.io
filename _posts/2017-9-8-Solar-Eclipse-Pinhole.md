@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "A pinhole-camera view of the total solar eclipse"
-tags: astrophotography pinhole eclipse
+category: astrophotography
+tags: [pinhole,eclipse]
 ---
 
 # August 21, 2017 Solar Eclipse

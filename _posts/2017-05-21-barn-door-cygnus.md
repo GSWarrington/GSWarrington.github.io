@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Barn-door tracker photo of cygnus"
-tags: astrophotography barndoortracker milkyway 50mm
+category: astrophotography 
+tags: [barndoortracker,milkyway,50mm]
 ---
 
 # Barn-door tracker photo of cygnus
