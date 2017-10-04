@@ -8,7 +8,9 @@ tags: [books]
 Unless otherwise noted, book was audio format.
 
 2017
-- Sep, (In progress), *Lincoln in the Bardo* by George Saunders.
+- Oct, (In progress), *Constellation Games* by Leonard Richardson (ebook).
+- Oct, (In progress), *Born a Crime* by Trevor Noah.
+- Sep, *Lincoln in the Bardo* by George Saunders.
 - Sep, *All the King's Men* by Robert Penn Warren.
 - Aug, *American Eclipse* by David Baron (paper).
 - Jul, *In the Woods* by Tana French (paper).
@@ -18,6 +20,7 @@ Unless otherwise noted, book was audio format.
 - Mar, *Hillbilly Elegy: A Memoir of a Family and Culture in Crisis* by J. D. Vance.
 - Mar, *The Sellout: A Novel* by Paul Beatty.
 - Mar, *Weapons of Math Destruction* by Cathy O'Neil (paper).
+- Feb, *Black Hole* by Marcia Bartusiak (paper).
 - Jan, *Hidden Figures* by Margot Lee Shetterly.
 - Jan, *John Quincy Adams* by Harlow Giles Unger.
 
