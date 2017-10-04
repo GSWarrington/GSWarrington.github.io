@@ -12,7 +12,7 @@ exclude: ["README.md","notes.txt","Gemfile","Gemfile.lock"]
 timezone: America/New_York
 
 # analytics
-google-analytics: UA-106392527-1
+google_analytics: UA-106392527-1
 #
 collections:
   my_categories:
