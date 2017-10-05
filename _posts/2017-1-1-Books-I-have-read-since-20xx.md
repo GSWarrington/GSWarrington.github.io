@@ -9,7 +9,7 @@ Unless otherwise noted, book was audio format.
 
 2017
 - Oct, (In progress), *Constellation Games* by Leonard Richardson (ebook).
-- Oct, (In progress), *Born a Crime* by Trevor Noah.
+- Oct, *Born a Crime* by Trevor Noah.
 - Sep, *Lincoln in the Bardo* by George Saunders.
 - Sep, *All the King's Men* by Robert Penn Warren.
 - Aug, *American Eclipse* by David Baron (paper).
