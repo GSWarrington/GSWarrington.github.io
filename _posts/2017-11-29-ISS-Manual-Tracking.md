@@ -30,11 +30,11 @@ imprecise focusing. The images were certainly bright enough.
 
 Here are the images with no processing.
 
-<img src="{{ site.baseurl }}/images/iss-track-nov2917.png" width="800">
+<img src="{{ site.baseurl }}/images/iss-track-nov2917.jpg" width="800">
 
 Here they are with the curves adjusted slighly.
 
-<img src="{{ site.baseurl }}/images/iss-track-nov2917-contrast.png" width="800">
+<img src="{{ site.baseurl }}/images/iss-track-nov2917-contrast.jpg" width="800">
 
 For next time I will
 * Work ahead of time to get focusing precise.
