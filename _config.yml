@@ -6,7 +6,7 @@ baseurl: ""
 twitter_username: GSWarrington
 github_username: GSWarrington
 #
-# markdown: kramdown
+# markdown: maruku
 theme: minima
 exclude: ["README.md","notes.txt","Gemfile","Gemfile.lock"]
 timezone: America/New_York

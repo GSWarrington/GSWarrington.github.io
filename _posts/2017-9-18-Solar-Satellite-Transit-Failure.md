@@ -27,4 +27,3 @@ dead pixels from the camera that aren't perfectly aligned among the
 various frames.
 
 <img src="{{ site.baseurl }}/images/small-transit-final-sm.jpg" width="800">
-
