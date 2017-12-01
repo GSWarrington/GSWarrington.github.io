@@ -10,8 +10,8 @@ Unless otherwise noted, book was audio format.
 2017
 - (In progress), *Modern Romance* by Aziz Ansari.
 - (In progress), *The Golem's Eye* by Jonathan Stroud.
-- (In progress), *Harry Potter and the Order of the Phoenix* by J.K. Rowling (aloud; repeat).
-- (In progress), *The Fellowship of the Ring* by J.R.R. Tolkien (aloud; repeat).
+- (In progress), *Harry Potter and the Order of the Phoenix* by J.K. Rowling (paper, aloud, repeat).
+- (In progress), *The Fellowship of the Ring* by J.R.R. Tolkien (paper, aloud, repeat).
 - Nov, *Apollo Expeditions to the Moon* by ed. by Edgar M. Cortright (paper).
 - Nov, *Guts 'N Gunships* by Mark Garrison.
 - Nov, *The Sixth Extinction* by Elizbeth Kolbert.
@@ -21,7 +21,7 @@ Unless otherwise noted, book was audio format.
 - Oct, *Born a Crime* by Trevor Noah.
 - Sep, *Lincoln in the Bardo* by George Saunders.
 - Sep, *All the King's Men* by Robert Penn Warren.
-- Aug, *The Hobbit* by J.R.R. Tolkien (aloud; repeat).
+- Aug, *The Hobbit* by J.R.R. Tolkien (paper, aloud, repeat).
 - Aug, *American Eclipse* by David Baron (paper).
 - Jul, *In the Woods* by Tana French (paper).
 - Jul, *Evicted: Poverty and Profit in the American City* by Matthew Desmond.
