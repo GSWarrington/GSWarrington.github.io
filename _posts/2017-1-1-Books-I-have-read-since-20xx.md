@@ -7,11 +7,20 @@ tags: [books]
 
 Unless otherwise noted, book was audio format.
 
+2018
+- (In progress), *Evil Spy School* by Stuart Gibbs (paper, aloud).
+- (In progress), *The Fifth Season* by N. K. Jemisin.
+- Jan, *The Golem's Eye* by Jonathan Stroud.
+- Jan, *Spy School* by Stuart Gibbs (paper, aloud).
+- Jan, *The Westing Game* by Ellen Raskin (paper, repeat).
+- Jan, *The Sympathizer* by Viet Thanh Nguyen.
+- Jan, *Starflight* by Melissa Landers.
+- (Stalled), *Harry Potter and the Order of the Phoenix* by J.K. Rowling (paper, aloud, repeat).
+- (Stalled), *The Fellowship of the Ring* by J.R.R. Tolkien (paper, aloud, repeat).
+
 2017
-- (In progress), *Modern Romance* by Aziz Ansari.
-- (In progress), *The Golem's Eye* by Jonathan Stroud.
-- (In progress), *Harry Potter and the Order of the Phoenix* by J.K. Rowling (paper, aloud, repeat).
-- (In progress), *The Fellowship of the Ring* by J.R.R. Tolkien (paper, aloud, repeat).
+- Dec, *Radio Free Vermont* by Bill McKibben.
+- Dec, *Modern Romance* by Aziz Ansari.
 - Nov, *Apollo Expeditions to the Moon* by ed. by Edgar M. Cortright (paper).
 - Nov, *Guts 'N Gunships* by Mark Garrison.
 - Nov, *The Sixth Extinction* by Elizbeth Kolbert.

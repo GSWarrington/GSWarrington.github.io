@@ -37,7 +37,7 @@ two appearances while Pennsylvania appears three times.
 The second table considers the corresponding ten elections with the
 most negative values of $\tilde{\delta}$. Here too the list is
 dominated by a few states: notably Massachusetts and Texas. In this
-case, though, there are no elections since 2012 that appear.
+case, though, there are no elections since 2012 appearing.
 
 <img src="{{ site.baseurl }}/images/Dem-ten.jpg" width="400">
 
