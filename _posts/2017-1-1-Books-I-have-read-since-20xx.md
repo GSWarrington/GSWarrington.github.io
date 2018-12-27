@@ -8,22 +8,49 @@ tags: [books]
 Unless otherwise noted, book was audio format.
 
 2018
-- (In progress), *Evil Spy School* by Stuart Gibbs (paper, aloud).
-- (In progress), *The Fifth Season* by N. K. Jemisin.
+- (In progress), *Mistborn: The Final Empire* by Brandon Sanderson.
+- (In progress), *1984* by George Orwell (book club).
+- (In progress), *The Boy Who Harnassed the Wind* (young readers edition) by William Kamkwamba (paper, aloud).
+- Dec, *Refugee* by Alan Gratz (paper, aloud).
+- Nov, *There There* by Tommy Orange (paper, book club).
+- Nov, *Titus Groan" by Mervyn Peake.
+- Nov, *Harry Potter and the Deathly Hallows* by J.K. Rowling (paper, aloud, repeat).
+- Oct, *Injustices* by Ian Milhiser.
+- Oct, *The Cellist of Sarajevo* by Steven Galloway (paper, book club).
+- Oct, *We are Legion (We are Bob)* by Dennis E. Taylor.
+- Sep, *Code Girls* by Liza Mundy.
+- Sep, *Leonardo da Vinci* by Walter Isaacson (paper,book club).
+- Sep, *The Future is History* by Masha Gessen.
+- Aug, *The Queen of Attolia* by Megan Whalen Turner.
+- Aug, *Harry Potter and the Half-Blood Prince* by J.K. Rowling (paper, aloud, repeat).
+- Jul, *The Immortal Irishman* by Timothy Egan.
+- Jun, *Fuzzy Nation* by John Scalzi.
+- May, *Harry Potter and the Order of the Phoenix* by J.K. Rowling (paper, aloud, repeat).
+- May, *The Sound and the Fury* by William Faulkner (book club).
+- May, *The Thief* by Megan Whalen Turner.
+- Apr, *The Left Hand of Darkness* by Ursula K. Le Guin.
+- Apr, *Exit West* by Mohsin Hamid (book club).
+- Mar, *Wolf in White Van* by John Darnielle (book club).
+- Mar, *The Wonderful Story of Henry Sugar* by Roald Dahl (paper, aloud).
+- Mar, *Evil Spy School* by Stuart Gibbs (paper, aloud).
+- Feb, *Artemis* by Andy Weir.
+- Feb, *American Wolf* by Nate Blakeslee.
+- Feb, *The Fifth Season* by N. K. Jemisin.
+- Feb, *11 Birthdays* by Wendy Mass.
 - Jan, *The Golem's Eye* by Jonathan Stroud.
 - Jan, *Spy School* by Stuart Gibbs (paper, aloud).
 - Jan, *The Westing Game* by Ellen Raskin (paper, repeat).
-- Jan, *The Sympathizer* by Viet Thanh Nguyen.
+- Jan, *The Sympathizer* by Viet Thanh Nguyen (book club).
 - Jan, *Starflight* by Melissa Landers.
-- (Stalled), *Harry Potter and the Order of the Phoenix* by J.K. Rowling (paper, aloud, repeat).
 - (Stalled), *The Fellowship of the Ring* by J.R.R. Tolkien (paper, aloud, repeat).
+- (Stalled), *Spy Camp* by Stuart Gibbs (paper, aloud).
 
 2017
-- Dec, *Radio Free Vermont* by Bill McKibben.
+- Dec, *Radio Free Vermont* by Bill McKibben (book club).
 - Dec, *Modern Romance* by Aziz Ansari.
 - Nov, *Apollo Expeditions to the Moon* by ed. by Edgar M. Cortright (paper).
 - Nov, *Guts 'N Gunships* by Mark Garrison.
-- Nov, *The Sixth Extinction* by Elizbeth Kolbert.
+- Nov, *The Sixth Extinction* by Elizbeth Kolbert (book club).
 - Oct, *Jhereg*, by Steven Brust.
 - Oct, *Constellation Games* by Leonard Richardson (ebook).
 - Oct, *The Amulet of Samarkand* by Jonathan Stroud.
