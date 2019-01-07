@@ -1,0 +1,17 @@
+####################################
+# Workflow for updating web page
+#
+# -a adds all known files?
+git commit -a -m "Message to commit"
+# makes everything on github update
+git push origin master
+
+# to look at things locally
+bundle exec jekyll serve
+#
+# to show where files are for theme
+# here are some docs: https://jekyllrb.com/docs/themes/
+bundle show minimal
+# here are some themes that work
+# drjekyllthemes.github.io
+https://pages.github.com/themes/

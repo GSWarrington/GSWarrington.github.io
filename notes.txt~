@@ -1,0 +1,5 @@
+# -a adds all known files?
+git commit -a -m "Message to commit"
+
+# makes everything on github update???
+git push origin master
