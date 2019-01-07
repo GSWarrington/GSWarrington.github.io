@@ -7,7 +7,6 @@ twitter_username: GSWarrington
 github_username: GSWarrington
 #
 markdown: kramdown
-  math_engine: mathjax	  
 theme: minima
 exclude: ["README.md","notes.txt","Gemfile","Gemfile.lock"]
 timezone: America/New_York
