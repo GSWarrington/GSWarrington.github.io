@@ -9,8 +9,8 @@ Unless otherwise noted, book was audio format.
 
 2018
 - (In progress), *Mistborn: The Final Empire* by Brandon Sanderson.
-- (In progress), *1984* by George Orwell (book club).
 - (In progress), *The Boy Who Harnassed the Wind* (young readers edition) by William Kamkwamba (paper, aloud).
+- Dec, *1984* by George Orwell (book club).
 - Dec, *Refugee* by Alan Gratz (paper, aloud).
 - Nov, *There There* by Tommy Orange (paper, book club).
 - Nov, *Titus Groan" by Mervyn Peake.
