@@ -28,7 +28,7 @@ camera-body pin.
 
 [<img src="{{ site.baseurl }}/images/extension-tube-pin.jpg" width="800">]({{ site.baseurl }}/images/extension-tube-pin.jpg)
 
-Anyway, 17 mm his is about 1 1/3 stops up from f/1.8 and is at
+Anyway, 17 mm is about 1 1/3 stops up from f/1.8 and is at
 f/2.8. If I"m not going to have electronic control of the aperature,
 this is probably a better chocie than f/1.8. At f/1.8, _very_ little
 would be in focus. But even at f/2.8, very little is in focus. So I
@@ -43,7 +43,7 @@ respectively. These a little over 3 stops and a little over 5 stops,
 respectively. Below are three shots taken with various aperatures to
 test the DOF. These were taken in bright sunlight from an angle of
 about 45 degrees to the tape measure. Camera was at minimum focus
-distance. From left to right, they are: wide open (f/2.8), 6 mm mask
+distance. From top to bottom, they are: wide open (f/2.8), 6 mm mask
 (f/9) and 3 mm mask (f/18).
 
 [<img src="{{ site.baseurl }}/images/mask_17mm.jpg" width="800">]({{ site.baseurl }}/images/mask_17mm.jpg)
@@ -88,3 +88,11 @@ but it is important. At 3mm, you can discern the tick marks across the
 whole range. With no mask, you can follow the tick marks for at most
 one-third of what's visible.
 
+Next time I take snowflake pictures I will definitely try the
+masks. Probably just the 6mm one since I'm not sure I'll be able to
+easily get enough light on the subject for the 3mm mask. I roughly
+matched the amount of light collected under the three scenarios. For
+the 3mm mask, I needed 1/100 of a second; for the 6mm mask I needed
+about 1/400 of a secon; and for no mask, I needed 1/1600 of a
+second. This is at least in the ballpark of what you'd expect from the
+aperatures.
